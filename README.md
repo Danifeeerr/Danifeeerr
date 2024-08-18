@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Danifeeerr
+- I'm currently studiyng informatic engineering
+- 👀 I’m interested in videogame creation
+- 🌱 I’m currently learning C# on Unity
+- 📫 How to reach me:
+    - Twitter: @Danifeeerr
